@@ -1,2 +1,8 @@
 * Explain what the "upstream" remote is usually used for, in your own words
 
+Upstream means to make a connection with the respository in
+the github website. When we make changes, we usually want 
+to send them back "upstream" so they make it into that 
+respository so that everyone pulling from the same source
+is working with all the same changes.
+
