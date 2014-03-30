@@ -1,2 +1,11 @@
 * Explain what a branch is, in your own words
 
+When you commit in Git, Git sotres a commit object
+that contains the pointer to the snapshot of the 
+content that is stagged, the message. The branch
+in Git is simply a pointer to one of these commits.
+The default branch name in git is master. Initial
+commits are given a branch master that points to 
+the last commit made. Everytime commit is made, it
+moves forward automatically.
+
