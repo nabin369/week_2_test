@@ -3,7 +3,6 @@ Tasks:
 
 Part 1
 ---
-
 * Create a new repository on Github to store a list of test questions for this test. Choose the name appropriately.
 * Clone it locally into your dev folder making sure you don't get unnecessary double nesting, e.g. ~/project/repo_name/repo_name/repo_files
 * Create one file for each of the following questions on the master branch. Put each question in its own file.
